@@ -57,15 +57,15 @@ Text here...
 
 ## References
 
-<sup>1</sup> “Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
+<sup>1</sup> “Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economicimpact#:~:text=As%20of%20September%202023%2C%20forty,auto%20loans%20and%20credit%20cards.
 
-<sup>2</sup> Streaks, Jennifer. “Average American Debt: Household Debt Statistics.” Business Insider. July 31, 2024. https://www.businessinsider.com/personal-finance/credit-score/average-american-debt.
+<sup>2</sup> “Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economicimpact#:~:text=As%20of%20September%202023%2C%20forty,auto%20loans%20and%20credit%20cards.
 
-<sup>3</sup>  “Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
+<sup>3</sup>  “Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economicimpact#:~:text=As%20of%20September%202023%2C%20forty,auto%20loans%20and%20credit%20cards.
 
 <sup>4</sup> Fry, Richard and Anthony Cilluffo. “Average American Debt: Household Debt Statistics.” Pew Research Center. September 18, 2024. https://www.pewresearch.org/short-reads/2024/09/18/facts-about-student-loans/.
 
-<sup>5</sup>  “Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
+<sup>5</sup>  “Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economicimpact#:~:text=As%20of%20September%202023%2C%20forty,auto%20loans%20and%20credit%20cards.
 
 <sup>6</sup>  Williams, Terri. “10 Ways Student Debt Can Derail Your Life.” Investopedia. December 29, 2023. https://www.investopedia.com/articles/personal-finance/100515/10-ways-student-debt-can-destroy-your-life.asp.
 
