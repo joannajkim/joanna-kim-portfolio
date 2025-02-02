@@ -34,7 +34,7 @@ Textiles generate large amounts of waste in landfills:
 
 Lots of Air and water pollution from CO2 emissions and microplastics<sup>22</sup>:
 A report in 2018 by Quantis International “found that the three main drivers of the industry’s global pollution impacts were dyeing and finishing (36%), yarn preparation (28%) and fibre production (15%)”.<sup>23</sup>
-CO2e emissions are projected to reach 1,243 million metric tonnes by 2030. <sup>24</sup>
+CO2e emissions are projected to reach 1.243 billion metric tons by 2030. <sup>24</sup>
 
 **Resolution**: Join the “Slow Fashion” Movement. This can include washing clothes “on the lowest heat setting” and “hanging to dry to save on energy”, “wearing second-hand clothing”, “shopping mindfully”, and “being aware of companies’ greenwashing tactics.”<sup>25</sup> 
 
