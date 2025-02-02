@@ -1,8 +1,5 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 ## Summary
 
@@ -16,13 +13,9 @@ I want to inspire the following potential calls to action through this project: 
 
 ## Project structure
 
-**One sentence summary**: Although fast fashion is convenient and cheap, it comes at a price of environmental impact. 
+**One sentence summary**: Student loan debt is a larger problem than we may realize.
 
-**Set Up**: Fast fashion is convenient and cheap therefore, attractive to consumers.
-
-It has grown 10.74% from 2024-2025 and is “now a $150.82 billion industry”.<sup>14</sup> It is projected “to reach $194.96 billion by 2027”.<sup>15</sup>  
-
-In March 2022, Shein had 50% market share in the United States, with H&M, Zara, Fashion Nova, and Forever 21 following, and was also “second fastest growing e-commerce website in the world in 2022.”<sup>16</sup>  
+**Set Up**: 
  
 **Conflict**: The environmental footprint from fast fashion is quickly increasing as well. 
 
