@@ -17,15 +17,15 @@
 
 ## Project structure
 
-One sentence summary: Although fast fashion is convenient and cheap, it comes at a price of environmental impact. 
+**One sentence summary**: Although fast fashion is convenient and cheap, it comes at a price of environmental impact. 
 
-Set Up: Fast fashion is convenient and cheap therefore, attractive to consumers.
+**Set Up**: Fast fashion is convenient and cheap therefore, attractive to consumers.
 
 It has grown 10.74% from 2024-2025 and is “now a $150.82 billion industry”.<sup>14</sup> It is projected “to reach $194.96 billion by 2027”.<sup>15</sup>  
 
 In March 2022, Shein had 50% market share in the United States, with H&M, Zara, Fashion Nova, and Forever 21 following, and was also “second fastest growing e-commerce website in the world in 2022.”<sup>16</sup>  
  
-Conflict: The environmental footprint from fast fashion is quickly increasing as well. 
+**Conflict**: The environmental footprint from fast fashion is quickly increasing as well. 
 
 To make one cotton t-shirt, it can take “2,700 liters of water” which is “equivalent to what one person might drink over three years.”<sup>17</sup>  To make a pair of jeans, “it takes 3,781 liters of water” and “equates to the emission of around 33.5 kilograms of carbon equivalent.”<sup>18</sup>  Annually, the fashion industry uses 93 billion cubic metres of water-”enough to meet the needs of five million people.”<sup>19</sup>  The clothing and textile industry consume “around 215 trillion liters of water per year”, is “responsible for 2-8% of world’s greenhouse gas emissions”, contributes $100 billion “in annual material loss due to underutilisation”, and “textiles account for approximately 9% of annual microplastic losses to the oceans.”<sup>20</sup> 
 
@@ -36,7 +36,7 @@ Lots of Air and water pollution from CO2 emissions and microplastics<sup>22</sup
 A report in 2018 by Quantis International “found that the three main drivers of the industry’s global pollution impacts were dyeing and finishing (36%), yarn preparation (28%) and fibre production (15%)”.<sup>23</sup>
 CO2e emissions are projected to reach 1,243 million metric tonnes by 2030. <sup>24</sup>
 
-Resolution: Join the “Slow Fashion” Movement. This can include washing clothes “on the lowest heat setting” and “hanging to dry to save on energy”, “wearing second-hand clothing”, “shopping mindfully”, and “being aware of companies’ greenwashing tactics.”<sup>25</sup> 
+**Resolution**: Join the “Slow Fashion” Movement. This can include washing clothes “on the lowest heat setting” and “hanging to dry to save on energy”, “wearing second-hand clothing”, “shopping mindfully”, and “being aware of companies’ greenwashing tactics.”<sup>25</sup> 
 
 Using washing machine bags can “reduce microfibre release by 86 percent” and if a product called “The Cora Ball” is used by “10% of U.S. households” during laundry, “it would prevent the equivalent of 30 million water bottles from entering waterways per year.” <sup>26</sup> 
 
