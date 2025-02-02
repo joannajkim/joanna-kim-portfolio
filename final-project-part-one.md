@@ -44,19 +44,32 @@ Text here...
 
 ## References
 <sup>1</sup> Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/.
+
 <sup>2</sup> Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/. 
+
 <sup>3</sup>  Lai, Olivia. “Explainer: What is Fast Fashion.” Earth.org. November 10, 2021. https://earth.org/what-is-fast-fashion/. 
+
 <sup>4</sup> Lai, Olivia. “Explainer: What is Fast Fashion.” Earth.org. November 10, 2021. https://earth.org/what-is-fast-fashion/. 
+
 <sup>5</sup>  Lai, Olivia. “Explainer: What is Fast Fashion.” Earth.org. November 10, 2021. https://earth.org/what-is-fast-fashion/. 
+
 <sup>6</sup>  Mulhern, Owen. “The 10 Essential Fast Fashion Statistics.” Earth.org. July 24, 2022. https://earth.org/fast-fashion-statistics/. 
-<sup>7</sup> Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment./ 
+
+<sup>7</sup> Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment. 
+
 <sup>8</sup>  Igini, Martina. “10 Concerning Fast Fashion Waste Statistics.” Earth.org. August 21, 2023. https://earth.org/statistics-about-fast-fashion-waste/.
+
 <sup>9</sup> Elbaz, Daniel. “Why We Need to Phase Plastic Out of Fashion.” plasticpollutioncoalition. August 24, 2023. https://www.plasticpollutioncoalition.org/blog/2023/8/24/why-we-need-to-phase-plastic-out-of-fashion.
+
 <sup>10</sup> Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/. 
+
 <sup>11</sup> Elbaz, Daniel. “Why We Need to Phase Plastic Out of Fashion.” plasticpollutioncoalition. August 24, 2023. https://www.plasticpollutioncoalition.org/blog/2023/8/24/why-we-need-to-phase-plastic-out-of-fashion.
+
 <sup>12</sup> Elbaz, Daniel. “Why We Need to Phase Plastic Out of Fashion.” plasticpollutioncoalition. August 24, 2023. https://www.plasticpollutioncoalition.org/blog/2023/8/24/why-we-need-to-phase-plastic-out-of-fashion.
-<sup>13</sup> Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/ 
-<sup>14</sup> Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/ 
+
+<sup>13</sup> Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/. 
+
+<sup>14</sup> Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/. 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
