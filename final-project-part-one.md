@@ -49,9 +49,9 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|"Portfolio by Age and Debt Size"| https://studentaid.gov/data-center/student/portfolio |  This             |
-|      |     |             |
-|      |     |             |
+|"Portfolio by Age and Debt Size"| https://studentaid.gov/data-center/student/portfolio |This data set will be utilized to create a bar chart in order to show the differences in student debt by age.|
+|"Portfolio by Location and Debt Size"|https://studentaid.gov/data-center/student/portfolio|This data set will be utilized to create a map in order to show the differences in student debt by state.|
+|"Total Student Loan Debt"|https://educationdata.org/student-loan-debt-statistics|This data will be utilizied to create a line chart in order to show the increase in student debt from 2011-2023.|
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
