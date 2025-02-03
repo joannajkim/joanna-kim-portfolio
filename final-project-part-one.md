@@ -3,37 +3,37 @@
 # Outline
 ## Summary
 
-The definition of fast fashion is “cheaply produced and priced garments that copy the latest catwalk styles and get pumped quickly through stores in order to maximize on current trends.” [^1] The most common famous fast fashion brands “include Zara, Shein, UNIQLO, Forever 21, and H&M.”[^2] Its “business model involves rapid design, production, distribution and marketing” so these brands can produce “large quantities of greater product variety and allow consumers to get more style and product differentiation at a low price.”[^3] 
+Student loan debt is “now one of the largest forms of consumer borrowing”<sup>1</sup> -second to mortgage debt and even above credit card debt and auto loan debt- and the total debt of “forty-three million U.S. borrowers” (“roughly one in five Americans) is at $1.6 trillion “as of the first quarter of 2024.”<sup>2</sup> With private loans, the amount is above $1.7 trillion.<sup>3</sup> This is 42% more than a decade ago.<sup>4</sup> Student debt is increasing because more students are attending college than before and because “the average student is taking on more debt” due to “college tuition growing many times faster than income”.<sup>5</sup> 
+This is problematic because there are longer-term implications of taking out a student loan and improper financial responsibility. For example, home lenders look at your debt-to-income ratio and if the debt is “considered too high to afford additional monthly mortgage payments, a lender will likely reject your loan application.” <sup>6</sup> Another example is lower credit scores due to late payments which can lead “lenders less likely to extend you credit like an auto loan or mortgage”, “lenders only approving you for their higher interest rates”, and “higher insurance rates.”<sup>7</sup> 
+ 
+In my project, I want to convey the story of the large-scale impact of student debt by showcasing the differences in the amount of student debt depending on certain demographics. Therefore, in my project, I will use data related to the progression of the average amount of student loan debt by year, the number of borrowers by year, average debt by age, average debt by location, average debt by race, and average debt by major. 
+ 
+I want to inspire the following potential calls to action through this project: financial literacy and/or counseling to become better at money management and income-driven repayment plans, inspiring employers to provide repayment benefits, and advocating for loan forgiveness programs.<sup>8</sup> 
 
-In my project, I want to convey the story of the negative environmental impact of fast fashion through data that displays the waste created. Therefore, in my project, I will showcase data related to garment usage lifetime and how it has decreased with an increase in sales of clothing[^6], CO2 emissions from fast fashion, consumption and pollution of water from textile dyeing[^7], how much textiles waste is produced yearly[^8], and production of microplastics due to discarded synthetic clothing and washing of synthetic clothing[^9]. I would also like to discuss the social impact resulting from fast fashion, such as “forced and child labor” since “rapid production means that sales and profits supersede human welfare.[^10]
-
-I want to inspire the following calls to action in my project: reading labels and tags on clothing to make sure “100 percent out of natural, regenerative materials, such as cotton, wool, hemp, or linen”[^11], utilizing washing machine bags “to reduce the amount of microfiber shedding of your clothes by 86 percent”[^12], and “supporting environmental organizations”[^13]  and “spread awareness of climate crisis”[^14].
 
 
 ## Project structure
 
-**One sentence summary**: Although fast fashion is convenient and cheap, it comes at a price of environmental impact. 
+**One sentence summary**: Student loan debt is a larger problem than we may realize.
 
-**Set Up**: Fast fashion is convenient and cheap therefore, attractive to consumers.
+**Set Up**: Student debt is the second largest form of consumer borrowing- behind mortgage debt.<sup>9</sup> 
 
-It has grown 10.74% from 2024-2025 and is “now a $150.82 billion industry”.<sup>15</sup> It is projected “to reach $194.96 billion by 2027”.<sup>16</sup>  
+The factors that contribute to the student debt crisis include, “rising tuition fees, housing, and health care costs”, students having “easier access to education loans”, “state funding for higher education has declined”, and “college degrees are losing value.”<sup>10</sup>   
 
-In March 2022, Shein had 50% market share in the United States, with H&M, Zara, Fashion Nova, and Forever 21 following, and was also “second fastest growing e-commerce website in the world in 2022.”<sup>17</sup>  
- 
-**Conflict**: The environmental footprint from fast fashion is quickly increasing as well. 
+Student loan debt affects a large portion of Americans. It is a catch-22 because taking out loans is sometimes the only way to be able to afford higher education for most students- a higher education that is seemingly ironically required for career advancement and potential for higher salaries. It doesn’t only impact the amount of debt and net worth you have, it has impacts that affect so many other aspects of your financial health and livelihood. Individuals take out debt before their 20s and therefore, are left with the burden of paying loans in their early 20s and 30s which delays many milestones, such as career development and major life decisions. <sup>11</sup>  
 
-To make one cotton t-shirt, it can take “2,700 liters of water” which is “equivalent to what one person might drink over three years.”<sup>17</sup>  To make a pair of jeans, “it takes 3,781 liters of water” and “equates to the emission of around 33.5 kilograms of carbon equivalent.”<sup>18</sup>  Annually, the fashion industry uses 93 billion cubic metres of water-”enough to meet the needs of five million people.”<sup>19</sup>  The clothing and textile industry consume “around 215 trillion liters of water per year”, is “responsible for 2-8% of world’s greenhouse gas emissions”, contributes $100 billion “in annual material loss due to underutilisation”, and “textiles account for approximately 9% of annual microplastic losses to the oceans.”<sup>20</sup> 
+**Conflict**: 43 million U.S. borrowers owe “more than $1.6 trillion in federal student loans.”<sup>12</sup> 
 
-Textiles generate large amounts of waste in landfills: 
-92 million out of 100 billion garments produced end up in landfills which is “equivalent of a rubbish truck full of clothes ends up on landfill sites every second.”<sup>21</sup>
+The total student loan debt has only increased from 2011-2024.<sup>13</sup> The student loan debt per student has increased since 2017, from $27,260 (adjusted for inflation) to $37,850 in May 2024.<sup>14</sup> The percentage of enrolled students that have borrowed has decreased over time but the average debt per borrower is higher in 2022.<sup>15</sup>
 
-Lots of Air and water pollution from CO2 emissions and microplastics<sup>22</sup>:
-A report in 2018 by Quantis International “found that the three main drivers of the industry’s global pollution impacts were dyeing and finishing (36%), yarn preparation (28%) and fibre production (15%)”.<sup>23</sup>
-CO2e emissions are projected to reach 1.243 billion metric tons by 2030. <sup>24</sup>
+The scope of the student debt crisis is largely seen in its disparities of the amount of debt among different demographics, including by state, race, income level, and age. 
 
-**Resolution**: Join the “Slow Fashion” Movement. This can include washing clothes “on the lowest heat setting” and “hanging to dry to save on energy”, “wearing second-hand clothing”, “shopping mindfully”, and “being aware of companies’ greenwashing tactics.”<sup>25</sup> 
+**Resolution**: There are many ways students can mitigate their student debt however, “col­leges and uni­ver­si­ties and employ­ers can take to lessen the bur­den of stu­dent loans on borrowers.”<sup>16</sup> 
 
-Using washing machine bags can “reduce microfibre release by 86 percent” and if a product called “The Cora Ball” is used by “10% of U.S. households” during laundry, “it would prevent the equivalent of 30 million water bottles from entering waterways per year.”<sup>26</sup> 
+“55% of Americans support cancellation of up to $10,000 per borrower in federal student loans” and “47% support cancellation of up to $50,000 per borrower” so a potential solution can be to advocate for policies surrounding student loan forgiveness.<sup>17</sup> 
+
+Colleges and employers can be a part of the solution:
+“Limiting tuition rates at public colleges”, giving more grants and tuition waivers for lower-income students, offering student loan repayment benefits, providing financial counseling.<sup>18</sup>  
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -60,59 +60,44 @@ Text here...
 
 ## References
 
-<sup>1</sup>Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/.
+<sup>1</sup>“Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
 
-<sup>2</sup>Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/. 
+<sup>2</sup>Streaks, Jennifer. “Average American Debt: Household Debt Statistics.” Business Insider. July 31, 2024. https://www.businessinsider.com/personal-finance/credit-score/average-american-debt.
 
-<sup>3</sup>Lai, Olivia. “Explainer: What is Fast Fashion.” Earth.org. November 10, 2021 https://earth.org/what-is-fast-fashion/. 
+<sup>3</sup>“Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
 
-<sup>4</sup>Lai, Olivia. “Explainer: What is Fast Fashion.” Earth.org. November 10, 2021 https://earth.org/what-is-fast-fashion/. 
+<sup>4</sup>Fry, Richard and Anthony Cilluffo. “Average American Debt: Household Debt Statistics.” Pew Research Center. September 18, 2024. https://www.pewresearch.org/short-reads/2024/09/18/facts-about-student-loans/.
 
-<sup>5</sup>Lai, Olivia. “Explainer: What is Fast Fashion.” Earth.org. November 10, 2021 https://earth.org/what-is-fast-fashion/. 
+<sup>5</sup>“Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
 
-<sup>6</sup>Mulhern, Owen. “The 10 Essential Fast Fashion Statistics.” Earth.org. July 24, 2022 https://earth.org/fast-fashion-statistics/. 
+<sup>6</sup>Williams, Terri. “10 Ways Student Debt Can Derail Your Life.” Investopedia. December 29, 2023. https://www.investopedia.com/articles/personal-finance/100515/10-ways-student-debt-can-destroy-your-life.asp.
 
-<sup>7</sup>Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment./ 
+<sup>7</sup>Williams, Terri. “10 Ways Student Debt Can Derail Your Life.” Investopedia. December 29, 2023. https://www.investopedia.com/articles/personal-finance/100515/10-ways-student-debt-can-destroy-your-life.asp.
 
-<sup>8</sup>Igini, Martina. “10 Concerning Fast Fashion Waste Statistics.” Earth.org. August 21, 2023 https://earth.org/statistics-about-fast-fashion-waste/.
+<sup>8</sup>“Causes of and Solutions to the Student Debt Crisis.” The Annie E. Casey Foundation. November 1, 2022. 
+https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-economic-distress. 
 
-<sup>9</sup>Elbaz, Daniel. “Why We Need to Phase Plastic Out of Fashion.” plasticpollutioncoalition. August 24, 2023. https://www.plasticpollutioncoalition.org/blog/2023/8/24/why-we-need-to-phase-plastic-out-of-fashion.
+<sup>9</sup>“Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
 
-<sup>10</sup>Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/. 
+<sup>10</sup>“Causes of and Solutions to the Student Debt Crisis.” The Annie E. Casey Foundation. November 1, 2022. https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-economic-distress. 
 
-<sup>11</sup>Elbaz, Daniel. “Why We Need to Phase Plastic Out of Fashion.” plasticpollutioncoalition. August 24, 2023. https://www.plasticpollutioncoalition.org/blog/2023/8/24/why-we-need-to-phase-plastic-out-of-fashion.
+<sup>11</sup>Rodriguez, Victoria“SurveyMonkey Poll: ‘Invest in You’.” SurveyMonkey. January 2022. https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/.
 
-<sup>12</sup>Elbaz, Daniel. “Why We Need to Phase Plastic Out of Fashion.” plasticpollutioncoalition. August 24, 2023. https://www.plasticpollutioncoalition.org/blog/2023/8/24/why-we-need-to-phase-plastic-out-of-fashion.
+<sup>12</sup>“Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. 
+https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
 
-<sup>13</sup>Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/ 
+<sup>13</sup>Fry, Richard and Anthony Cilluffo. “5 Facts about Student Loans.” Pew Research Center. September 18, 2024. https://www.pewresearch.org/short-reads/2024/09/18/facts-about-student-loans/.
 
-<sup>14</sup>Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/ 
+<sup>14</sup>Hanson, Melanie. “Student Loan Debt Statistics.” Education Data Initiative. January 15, 2025. https://educationdata.org/student-loan-debt-statistics.
 
-<sup>15</sup>Cardona, Nancy. “Environmental Impact of Fast Fashion Statistics (2025).” Uniform Market. December 23, 2024. https://www.uniformmarket.com/statistics/fast-fashion-statistics.
+<sup>15</sup>Hanson, Melanie. “Average Student Loan Debt by Year.” Education Data Initiative. August 16, 2024. https://educationdata.org/average-student-loan-debt-by-year.
 
-<sup>16</sup>Cardona, Nancy. “Environmental Impact of Fast Fashion Statistics (2025).” Uniform Market. December 23, 2024. https://www.uniformmarket.com/statistics/fast-fashion-statistics.
+<sup>16</sup>“Causes of and Solutions to the Student Debt Crisis.” The Annie E. Casey Foundation. November 1, 2022. https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-economic-distress. 
 
-<sup>17</sup>Statista Research Department. “Market share of the leading fast fashion companies in the United States in select months from March 2020 to November 2022.” statista. August 19, 2024. https://www.statista.com/statistics/1341506/fast-fashion-market-share-us/.
+<sup>17</sup>Hanson, Melanie. “Student Loan Debt Statistics.” Education Data Initiative. January 15, 2025. https://educationdata.org/student-loan-debt-statistics.
 
-<sup>18</sup>Chopra, Aarushi. “Did you know it takes 2,700 litres of water to produce one cotton tshirt?.” Medium. September 23, 2023. https://medium.com/@aarushi.chopra/did-you-know-it-takes-2-700-litres-of-water-to-produce-one-cotton-tshirt-ebeaaf6e4d08.
+<sup>18</sup>“Causes of and Solutions to the Student Debt Crisis.” The Annie E. Casey Foundation. November 1, 2022. https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-economic-distress. 
 
-<sup>19</sup>“How Much Do Our Wardrobes Cost to the Environment?.” World Bank Group. September 23, 2019. https://www.worldbank.org/en/news/feature/2019/09/23/costo-moda-medio-ambiente.
-
-<sup>20</sup>Chopra, Aarushi. “Did you know it takes 2,700 litres of water to produce one cotton tshirt?.” Medium. September 23, 2023. https://medium.com/@aarushi.chopra/did-you-know-it-takes-2-700-litres-of-water-to-produce-one-cotton-tshirt-ebeaaf6e4d08.
-
-<sup>21</sup>“What is the UN Alliance for Sustainable Fashion?.” UN Alliance for Sustainable Fashion. https://unfashionalliance.org/.
-
-<sup>22</sup>Igini, Martina. “10 Concerning Fast Fashion Waste Statistics.” Earth.org. August 21, 2023. https://earth.org/statistics-about-fast-fashion-waste/.
-
-<sup>23</sup>Igini, Martina. “10 Concerning Fast Fashion Waste Statistics.” Earth.org. August 21, 2023. https://earth.org/statistics-about-fast-fashion-waste/.
-
-<sup>24</sup>Maiti, Rashmila. “The Environmental Impact of Fast Fashion, Explained.” Earth.org. January 20, 2025. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/.
-
-<sup>25</sup>Statista Research Department. “Projected carbon dioxide equivalent emissions of the apparel industry worldwide from 2019 to 2030.” statista. October 7, 2024. https://www.statista.com/statistics/1305696/apparel-industry-co2e-emissions/.
-
-<sup>26</sup>Vito, Francine. “Explainer: What Is Slow Fashion and How Can You Join the Movement?.” Earth.org. July 27, 2022. https://earth.org/what-is-slow-fashion/.
-
-<sup>27</sup>“Fashion’s tiny hidden secret.” UN environment programme. March 19, 2019. https://www.unep.org/news-and-stories/story/fashions-tiny-hidden-secret.
 
 ## AI acknowledgements
 
