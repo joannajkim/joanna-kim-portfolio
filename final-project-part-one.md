@@ -7,7 +7,7 @@ Student loan debt is “now one of the largest forms of consumer borrowing”<su
 
 This is problematic because there are longer-term implications of taking out a student loan. For example, home lenders look at your debt-to-income ratio and if the debt is “considered too high to afford additional monthly mortgage payments, a lender will likely reject your loan application.” <sup>5</sup> Another example is lower credit scores due to late payments which can lead “lenders less likely to extend you credit like an auto loan or mortgage”, “lenders only approving you for their higher interest rates”, and “higher insurance rates.”<sup>6</sup> 
  
-In my project, I want to convey the story of the prevalence of student loan debt and how it is impacting the lives of students post-graduation, including abilities to buy homes, bankruptcy, delayed financial decisions, and mental health. I also want to highlight the disparities among different demographics (age, race, major) in the level of impact of student loan debt. 
+In my project, I want to convey the story of the prevalence of student loan debt and how it is impacting the milestones and futures of students post-graduation, including abilities to buy homes, bankruptcy, delayed financial decisions, and mental health. I also want to highlight the disparities among different demographics (age, race, gender) in the level of impact of these factors from student loan debt. 
 
 Although I want to inspire financial literacy and/or counseling to become better at money management and income-driven repayment plans for students, another audience that I would like to target are employers and to inspire them to provide loan repayment benefits, “tie payments to retirement plans”, and even offering education reimbursement to encourage individuals to pursue higher education.<sup>7</sup> Another audience I would like to target are colleges and universities. I want to inspire them to reduce the cost of attendance, provide more financial aid (especially for those from lower socioeconomic backgrounds), and offer financial counseling during school years. 
 
@@ -41,16 +41,12 @@ Colleges and employers can be a part of the solution:
 “Limiting tuition rates at public colleges”, giving more grants and tuition waivers for lower-income students, offering student loan repayment benefits, providing financial counseling.<sup>18</sup> 
  
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+These are my initial sketches. These were created in google sheets but for the final project, I anticipate that I will be using Tableau to create these graphs. I will add more detail and clean-up the graphs to follow good design practices but for now, I have focused on trying to convey my story arc with the titles. 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+The data I collected are from various websites. This is a link to a google spreadsheet: https://docs.google.com/spreadsheets/d/16zxtP2D1t_iSKIE3H29WRelo45eteecZi56gFrqcUJw/edit?usp=sharing. 
+This is where I have taken publicly-accessible data from different websites and added them into separate sheets in this spreadsheet (each sheet is a different set of data from a different website). Some of the data is added exactly from datasets/tables from a website and for these, underneath the tables, I have put "Source: 'link to website'". For the other data, I have created my own tables from pulling bits of data from one website. For these, underneath the tables, I have put "Data Collated From: 'link to website'". Each sheet is labeled with the title of the dataset. 
 
 | Name | URL | Description |
 |------|-----|-------------|
