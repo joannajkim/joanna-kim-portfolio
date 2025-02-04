@@ -45,27 +45,35 @@ Colleges and employers can be a big part of the solution:
 These are my initial sketches. They were created in google sheets but for the final project, I anticipate that I will be using Tableau to recreate these graphs. I will add more detail and clean-up the graphs to be aligned with good design practices but for now, I have focused on trying to convey my story arc with the titles. 
 
 ![](https://github.com/joannajkim/joanna-kimportfolio/blob/main/Student%20debt%20is%20the%20second%20largest%20form%20of%20consumer%20borrowing.png)
+
 Source: https://educationdata.org/average-student-loan-debt-by-year
 
 ![](https://github.com/joannajkim/joanna-kim-portfolio/blob/main/The%20total%20student%20loan%20debt%20has%20continued%20to%20increase%20from%202011-2024.png)
+
 Source: https://educationdata.org/student-loan-debt-statistics
 
-![](https://github.com/joannajkim/joanna-kim-portfolio/blob/main/Debt-to-Income%20ratio%20among%20Bachelor%E2%80%99s%20Degree%20Earners%20is%20twice%20the%20healthy%20amount.png)
+![](https://github.com/joannajkim/joanna-kim-portfolio/blob/main/Debt-to-Income%20ratio%20among%20Bachelor%E2%80%99s%20Degree%20Earners%20is%20twice%20the%20healthy%20amount.png) 
+
 Source: https://educationdata.org/average-student-loan-debt-by-year
 
 ![](https://github.com/joannajkim/joanna-kim-portfolio/blob/main/U.S.%20Adults%2035-64%20Experience%20Delays%20in%20Milestones%20Due%20to%20Student%20Loan%20Debt.png)
+
 Data Collated From: https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/
 
 ![](https://github.com/joannajkim/joanna-kim-portfolio/blob/main/%25%20of%20Borrowers%20Delayed%20One%20or%20More%20Life%20Events%20vs.%20Borrowing%20Level.png)
+
 Source: https://news.gallup.com/poll/643328/student-loan-borrowers-delayed-major-life-events.aspx
 
 ![](https://github.com/joannajkim/joanna-kim-portfolio/blob/main/All%20levels%20of%20borrowing%20experience%20delay%20to%20life%20events.png)
+
 Source: https://news.gallup.com/poll/643328/student-loan-borrowers-delayed-major-life-events.aspx
 
 ![](https://github.com/joannajkim/joanna-kim-portfolio/blob/main/Negative%20Mental%20Health%20From%20Student%20Loan%20Debt%20Affects%20More%20Females%20than%20Males.png)
+
 Source: https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/
 
 ![](https://github.com/joannajkim/joanna-kim-portfolio/blob/main/Borrowers%20experience%20impacts%20of%20student%20loan%20debt%20on%20employment%20decisions.png)
+
 Data Collated From: https://educationdata.org/student-loan-debt-statistics
 
 # The data
