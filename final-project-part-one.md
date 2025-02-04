@@ -87,11 +87,9 @@ https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-econ
 <sup>10</sup>“Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. 
 https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
 
-<sup>11</sup>Fry, Richard and Anthony Cilluffo. “5 Facts about Student Loans.” Pew Research Center. September 18, 2024. https://www.pewresearch.org/short-reads/2024/09/18/facts-about-student-loans/.
+<sup>11</sup>Hanson, Melanie. “Student Loan Debt Statistics.” Education Data Initiative. January 15, 2025. https://educationdata.org/student-loan-debt-statistics.
 
-<sup>12</sup>Hanson, Melanie. “Student Loan Debt Statistics.” Education Data Initiative. January 15, 2025. https://educationdata.org/student-loan-debt-statistics.
-
-<sup>13</sup>Hanson, Melanie. “Average Student Loan Debt by Year.” Education Data Initiative. August 16, 2024. https://educationdata.org/average-student-loan-debt-by-year.
+<sup>12</sup>Hanson, Melanie. “Average Student Loan Debt by Year.” Education Data Initiative. August 16, 2024. https://educationdata.org/average-student-loan-debt-by-year.
 
 <sup>14</sup>“Drowning in Debt: Student Loans Weigh Down Borrowers.” WGU Labs. January 10, 2024. https://www.wgulabs.org/posts/drowning-in-debt-student-loans-weigh-down-borrowers.
 
