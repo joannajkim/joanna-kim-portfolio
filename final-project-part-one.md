@@ -44,7 +44,7 @@ Colleges and employers can be a part of the solution:
 
 These are my initial sketches. These were created in google sheets but for the final project, I anticipate that I will be using Tableau to create these graphs. I will add more detail and clean-up the graphs to follow good design practices but for now, I have focused on trying to convey my story arc with the titles. 
 
-![funny dog picture](Student debt is the second largest form of consumer borrowing.png)
+!(Student debt is the second largest form of consumer borrowing.png)
 
 # The data
 The data I collected are from various websites. This is a link to a google spreadsheet: https://docs.google.com/spreadsheets/d/16zxtP2D1t_iSKIE3H29WRelo45eteecZi56gFrqcUJw/edit?usp=sharing. 
