@@ -91,6 +91,8 @@ https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
 
 <sup>12</sup>Hanson, Melanie. “Average Student Loan Debt by Year.” Education Data Initiative. August 16, 2024. https://educationdata.org/average-student-loan-debt-by-year.
 
+<sup>13</sup>Rodriguez, Victoria. "SurveyMonkey Poll: 'Invest in You'". SurveyMonkey. January 2022. https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/.
+
 <sup>14</sup>“Drowning in Debt: Student Loans Weigh Down Borrowers.” WGU Labs. January 10, 2024. https://www.wgulabs.org/posts/drowning-in-debt-student-loans-weigh-down-borrowers.
 
 <sup>15</sup>Hanson, Melanie. “Student Loan Debt Statistics.” Education Data Initiative. January 15, 2025. https://educationdata.org/student-loan-debt-statistics.
