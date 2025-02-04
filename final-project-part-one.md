@@ -49,7 +49,7 @@ These are my initial sketches. They were created in google sheets but for the fi
 
 Source: https://educationdata.org/average-student-loan-debt-by-year
 
-![](/Student debt is the second largest form of consumer borrowing.png)
+![](https://github.com/joannajkim/joanna-kim-portfolio/blob/main/The%20total%20student%20loan%20debt%20has%20continued%20to%20increase%20from%202011-2024.png)
 
 Source: https://educationdata.org/student-loan-debt-statistics
 
