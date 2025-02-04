@@ -60,10 +60,10 @@ This is where I have taken publicly-accessible data from different websites and 
 |"Has student loan debt affected your employment decisions in any of the following ways?"|https://docs.google.com/spreadsheets/d/16zxtP2D1t_iSKIE3H29WRelo45eteecZi56gFrqcUJw/edit?usp=sharing|This data displays student loan debt's affect on employment decisions for different generations, races, and genders. It is interesting to note the disparities by demographic but also, student loan debt also affects the types of jobs people are choosing.|
 |"Race/ethnicity differences in struggle with loans"|https://docs.google.com/spreadsheets/d/16zxtP2D1t_iSKIE3H29WRelo45eteecZi56gFrqcUJw/edit?usp=sharing|This data shows the differences in struggles with loans based on race/ethnicity, degree level, and gender differences. This further conveys the story that a large portion of borrowers are impacted in negative ways by student loan debt and that there are disparities between different demographics.|
 |"Supporting Federal Student Loan Debt Relief"|https://docs.google.com/spreadsheets/d/16zxtP2D1t_iSKIE3H29WRelo45eteecZi56gFrqcUJw/edit?usp=sharing|This data shows borrowers that support federal student loan debt relief. This can convey that many borrowers do want relief and advocating to policymakers may be one of the many potential solutions to the student debt crisis.|
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+|"Portfolio by Age and Debt Size"|https://studentaid.gov/data-center/student/portfolio|This dataset shows debt size by age group and the number of borrowers by age group. I think it may be interesting to compare the debt size and different age groups.|
 
-Text here...
+# Method and medium
+I will create my final project in shorthand and I will create my data visualizations in Tableau and datawrapper. My outline will be the natural progression of the story and my call to action will include links to websites related to financial aid counseling, advocacy groups, and scholarships. I will embed the data visualizations and will upload images as well. 
 
 ## References
 
