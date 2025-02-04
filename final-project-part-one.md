@@ -47,36 +47,35 @@ These are my initial sketches. They were created in google sheets but for the fi
 
 ![Student debt is the second largest form of consumer borrowing](https://github.com/user-attachments/assets/0a05d551-dce3-46cf-878e-a75075ffe144)
 
-
-Source: https://educationdata.org/average-student-loan-debt-by-year
+Source: https://educationdata.org/average-student-loan-debt-by-year  
 
 ![The total student loan debt has continued to increase from 2011-2024](https://github.com/user-attachments/assets/191577d8-9539-4e52-b14f-4d4082792fd4)
 
-Source: https://educationdata.org/student-loan-debt-statistics
+Source: https://educationdata.org/student-loan-debt-statistics 
 
 ![Debt-to-Income ratio among Bachelor’s Degree Earners is twice the healthy amount](https://github.com/user-attachments/assets/dcd81df7-e18a-4db4-b62b-161ba5ed0262)
 
-Source: https://educationdata.org/average-student-loan-debt-by-year
+Source: https://educationdata.org/average-student-loan-debt-by-year 
 
 ![U S  Adults 35-64 Experience Delays in Milestones Due to Student Loan Debt](https://github.com/user-attachments/assets/3d00f35f-1b97-4e6b-a149-f89a95875589)
 
-Data Collated From: https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/
+Data Collated From: https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/ 
 
 ![% of Borrowers Delayed One or More Life Events vs  Borrowing Level](https://github.com/user-attachments/assets/d74afb11-afac-4d1f-9bd6-a1c6f04f5b4d)
 
-Source: https://news.gallup.com/poll/643328/student-loan-borrowers-delayed-major-life-events.aspx
+Source: https://news.gallup.com/poll/643328/student-loan-borrowers-delayed-major-life-events.aspx 
 
 ![All levels of borrowing experience delay to life events](https://github.com/user-attachments/assets/892c6ce3-112c-40f2-93b5-744602409b21)
 
-Source: https://news.gallup.com/poll/643328/student-loan-borrowers-delayed-major-life-events.aspx
+Source: https://news.gallup.com/poll/643328/student-loan-borrowers-delayed-major-life-events.aspx  
 
 ![Negative Mental Health From Student Loan Debt Affects More Females than Males](https://github.com/user-attachments/assets/2d30dcc7-1c77-43e3-b232-68e496aa0a73)
 
-Source: https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/
+Source: https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/ 
 
 ![Borrowers experience impacts of student loan debt on employment decisions](https://github.com/user-attachments/assets/51f7831f-8010-4dc8-923c-80b591d871be)
 
-Data Collated From: https://educationdata.org/student-loan-debt-statistics
+Data Collated From: https://educationdata.org/student-loan-debt-statistics 
 
 # The data
 The data I collected are from various websites. This is a link to a google spreadsheet I have created that has all of my data compiled: https://docs.google.com/spreadsheets/d/16zxtP2D1t_iSKIE3H29WRelo45eteecZi56gFrqcUJw/edit?usp=sharing. 
