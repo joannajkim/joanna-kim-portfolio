@@ -45,7 +45,7 @@ Colleges and employers can be a big part of the solution:
 These are my initial sketches. They were created in google sheets but for the final project, I anticipate that I will be using Tableau to recreate these graphs. I will add more detail and clean-up the graphs to be aligned with good design practices but for now, I have focused on trying to convey my story arc with the titles. 
 
 
-![](https://github.com/joannajkim/joanna-kim-portfolio/blob/a7505d937bdad5777a456057158dbaa5695263d0/Student%20debt%20is%20the%20second%20largest%20form%20of%20consumer%20borrowing.png)
+![](https://github.com/joannajkim/joanna-kim-portfolio/blob/8401b86eab83a1febc4cc5d7f572b47fa47fec3e/Student%20debt%20is%20the%20second%20largest%20form%20of%20consumer%20borrowing.png)
 
 Source: https://educationdata.org/average-student-loan-debt-by-year
 
