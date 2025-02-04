@@ -61,10 +61,6 @@ Source: https://educationdata.org/average-student-loan-debt-by-year
 
 Data Collated From: https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/ 
 
-![% of Borrowers Delayed One or More Life Events vs  Borrowing Level](https://github.com/user-attachments/assets/d74afb11-afac-4d1f-9bd6-a1c6f04f5b4d)
-
-Source: https://news.gallup.com/poll/643328/student-loan-borrowers-delayed-major-life-events.aspx 
-
 ![All levels of borrowing experience delay to life events](https://github.com/user-attachments/assets/892c6ce3-112c-40f2-93b5-744602409b21)
 
 Source: https://news.gallup.com/poll/643328/student-loan-borrowers-delayed-major-life-events.aspx  
@@ -76,6 +72,10 @@ Source: https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/
 ![Borrowers experience impacts of student loan debt on employment decisions](https://github.com/user-attachments/assets/51f7831f-8010-4dc8-923c-80b591d871be)
 
 Data Collated From: https://educationdata.org/student-loan-debt-statistics 
+
+![Americans that Support Federal Student Loan Debt Relief](https://github.com/user-attachments/assets/4b7103bc-0a47-4d50-b683-69c39c92317b)
+
+Data Collated From: https://educationdata.org/student-loan-debt-statistics
 
 # The data
 The data I collected are from various websites. This is a link to a google spreadsheet I have created that has all of my data compiled: https://docs.google.com/spreadsheets/d/16zxtP2D1t_iSKIE3H29WRelo45eteecZi56gFrqcUJw/edit?usp=sharing. 
