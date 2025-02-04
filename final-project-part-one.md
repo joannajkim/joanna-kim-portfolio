@@ -44,6 +44,8 @@ Colleges and employers can be a part of the solution:
 
 These are my initial sketches. These were created in google sheets but for the final project, I anticipate that I will be using Tableau to create these graphs. I will add more detail and clean-up the graphs to follow good design practices but for now, I have focused on trying to convey my story arc with the titles. 
 
+![funny dog picture](Student debt is the second largest form of consumer borrowing.png)
+
 # The data
 The data I collected are from various websites. This is a link to a google spreadsheet: https://docs.google.com/spreadsheets/d/16zxtP2D1t_iSKIE3H29WRelo45eteecZi56gFrqcUJw/edit?usp=sharing. 
 This is where I have taken publicly-accessible data from different websites and added them into separate sheets in this spreadsheet (each sheet is a different set of data from a different website). Some of the data is added exactly from datasets/tables from a website and for these, underneath the tables, I have put "Source: 'link to website'". For the other data, I have created my own tables from pulling bits of data from one website. For these, underneath the tables, I have put "Data Collated From: 'link to website'". Each sheet is labeled with the title of the dataset and this also corresponds with the "name" for the table below. 
