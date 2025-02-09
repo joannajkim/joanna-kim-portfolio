@@ -11,13 +11,15 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 This is a link to the original data visualization: https://www.visualcapitalist.com/who-spends-the-most-time-on-social-media/  
 
+This visualization depicts the top countries ranked in a horizontal bar chart from the most to least average daily time spent on social media. There is a yellow border around the visualization and the background is black. The countries are listed by name and the hour and minutes of their average daily time spent. The countries are also grouped by different colors based on whih continents they are from. There are also circle icons of each of the countries' flags. There is a purple box towards the bottom right of the visualization with a fact about social media use. The title has a purple background and one part of the title ("Daily Social Media Use") is separated from the rest of the title in another darker purple 3-D box and is in a different font. On the bottom right of the visualization, in a small font and subdued colors, it says "Based on users aged 17 to 24".
+
 I chose this visualization because as I was going through all of the Makeover Monday visualizations, this one particuraly caught my eye due to all of the different colors used. My first thought was that this visualization goes against a lot of the good design practices that we discussed in class and reminded me of a few of the visualizations we looked at in class and for our assignments. I thought that this visualization would be fun to try to do a critque by design of because instead of adding information, much of this redesign would be more about finding a way to convey the same data through a more simple lens. 
 
 I also chose this visualization because I have an interest in marketing (and this likely audience of this visualization is businesses and marketers) and this information is definetly something of value for businesses who may have a more international presence. 
 
 ## Step two: the critique
 
-I think this method at evaluating the data visualization was successful and a much more organized and tangible way compared to the Good Charts Method because it allows you to break down the visualization based on different criteria. It made it easier for me to realize the visualization’s strengths and weaknesses because each criteria allows you to focus on specific aspects of the visualization that you may not otherwise focus on without the guidance of the criteria.
+I think this method at evaluating the data visualization was successful and a much more organized and tangible way compared to the Good Charts Method because it allows you to break down the visualization based on different criteria. It made it easier for me to realize the visualization’s strengths and weaknesses because each criteria allows you to focus on specific aspects of the visualization that you may not otherwise focus on without the guidance of the criteria. This method of critique was a great way to be able to understand the layers of a visualization and that a visualization can have great strengths in one area (such as the intuitiveness of the information presented in this visualization) but also have weaknesses in another (such as the amount of unnecessary eye travel in this visualization). 
 
 For usefulness, I rate this visualization an 9 because while I think this information about the top countries by daily social media use is valuable data to businesses (especially those with an international presence) and those who work in marketing, especially because it displays the specific hours and minutes spent and they can see which countries they may be missing out on their marketing efforts on social media with, I think having a further breakdown of the specific types of social media platforms that these countries spend these hours and minutes on would be even more helpful information for this audience. 
 
@@ -62,17 +64,19 @@ I changed the title to "Countries by Average Daily Social Media Use" because the
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
-Questions to ask (modify these for your own interviews): 
+Questions to ask: 
 
-- Can you tell me what you think this is?
+- What do you think this visualization is trying to portray?
 
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
+- Is there anything you find confusing or not intuitive?
 
 - Who do you think is the intended audience for this?
 
 - Is there anything you would change or do differently?
+
+- Compared to the original visualization, do you think this is more effective or do you think it takes too much information away and is too simple?
+
+- Do you think a map would be more efficient to represent this information?
 
 Results: 
 
@@ -94,7 +98,8 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+
+Diederichs, Anna. “Who Spends the Most Time on Social Media?.” Visual Capitalist. November 2, 2024. https://www.visualcapitalist.com/who-spends-the-most-time-on-social-media/.
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
