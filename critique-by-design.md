@@ -90,8 +90,6 @@ I changed the title to "Countries by Average Daily Social Media Use" because the
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
 Questions to ask: 
 
 - What do you think this visualization is trying to portray?
@@ -107,9 +105,6 @@ Questions to ask:
 - Do you think a map would be more efficient to represent this information?
 
 Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
 
 | Question | MISM, mid-20s |MISM-BIDA, early 20s|MISM, early 20s|
 |----------|-------------|-------------|-------------|
@@ -127,6 +122,15 @@ One pattern that emerged from the feedback is the lack of a story represented in
 Based on all of the feedback, I learned that I need to improve on the storytelling aspect. My 1st draft visualization was more focused on presenting the data through a general lens instead of telling a specific story and I think based on my feedback, my interviewee's really yearned for something further than just a representation of general data with no meaning. I realized that it is so easy to get stuck on the data that I forgot making sure that the visualization is actually telling a story from some angle. Therefore, for my final solution, I will create a visualization through the story of how 3 out of the 5 countries for the most social media use are from Africa. To also reflect this story and in response to the feedback I received, I will change the title to "3 of the Top 5 Countries with Most Daily Social Media Use Are From Africa". Also, to reflect this new tite and in response to one of the comments regarding highlighting certain countries based on what story I will tell, I will change the top 3 countries from Africa (Kenya, South Africa, and Nigeria) to a darker blue and the other countries to light blue. I liked the suggestion for changing the bars to blue because the reasoning was related to the target audience. I will also make sure to write in the subtitle that the results were from a survey compiled by We Are Social and are from internet users aged 16-64 as of January 2024 since one of the comments was confusion regarding where the results were from. 
 
 ## Step five: build the solution
+<div class='tableauPlaceholder' id='viz1739243797778' style='position: relative'><noscript><a href='#'><img alt='3 of the Top 5 Countries with Most Daily Social Media Use Are From AfricaCompiled from a survey by We Are Social Canada of internet users aged 16-64 (as of January 2024). ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalSolutionCritiquebyDesign-JoannaKim&#47;Sheet12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FinalSolutionCritiquebyDesign-JoannaKim&#47;Sheet12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;FinalSolutionCritiquebyDesign-JoannaKim&#47;Sheet12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>          
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1739243797778');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 This is my final solution of the visualization. I ended up chosing a horizontal bar chart because it allows for the clear and visual comparisons between the different countries, which is a large part of the story I was trying to convey. I was debating on chosing a map or a horizontal bar chart but after discussing with my interviewees, they had commented that the information about the continents was unnecessary for the story I was telling and that the intended audience likely already knows where the countries are from so I decided to use a horizontal bar chart. 
 
