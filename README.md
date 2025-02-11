@@ -1,6 +1,6 @@
 | [home page](https://joannajkim.github.io/joanna-kim-portfolio/critique-by-design) | [critique by design](https://joannajkim.github.io/joanna-kim-portfolio/critique-by-design) | [final project I](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
+# Websites
 
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
