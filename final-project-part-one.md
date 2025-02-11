@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://joannajkim.github.io/joanna-kim-portfolio/)| [critique by design](https://joannajkim.github.io/joanna-kim-portfolio/critique-by-design) | [final project I](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-one) | [final project II](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-two) | [final project III](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-three)|
 
 # Outline
 ## Summary
