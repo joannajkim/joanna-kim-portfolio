@@ -1,4 +1,4 @@
-| [home page](https://joannajkim.github.io/joanna-kim-portfolio/) | [critique by design](https://joannajkim.github.io/joanna-kim-portfolio/critique-by-design) | [final project I](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-one) | [final project II](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-two) | [final project III](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-three) |
+| [home page](https://joannajkim.github.io/joanna-kim-portfolio/) | [critique by design](https://joannajkim.github.io/joanna-kim-portfolio/critique-by-design) | [final project I](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-one) | [final project II](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-two) | [final project III](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-three) | 
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
