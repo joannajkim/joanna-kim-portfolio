@@ -10,18 +10,20 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+Due to this project largely focusing on the impacts of the student loan debt, the best audience would be students themselves. In order to identify representative individuals, I think the best way would be to approach students from CMU, particuraly graduate students. Undergraduates may not exprience the after effects of student debt yet but graduate students (since many have worked between graduating undergrad and starting graduate school) likely experience the effects from the student debt they took on during their undergraduate years.  I think it would be interesting to also interview older generations, particuraly GenX, because their experience with student loan debt and therefore, their perspective on student loan debt may be vastly different. Since most graduate students are likely older GenZ or younger millenials, I think having one GenX individual who has taken out student loans would be an interesting perspective to gather. 
+
+I hope to reach students with my story and help them realize that they are not alone in their struggles with student loan debt because varying demographics do struggle in some way with the effects. However, for the bigger picture, I want to reach higher education insitutions, employers, and policymakers so they can see the large negative impact that student loan debt has on the American population and be inspired to take action to combat and help the student loan debt crisis.   
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+The goals of my research are to hear the students bring their own opinions and to see if their stance on student loan debt is included and represented accurately. I am curious to see if there is another component or persepctive that I am missing in terms of the effects of student loan debt. I also want to know if my story and audience is clear and if the data visualizations actually do help enhance the message. 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|My goal is to see if their stance on student loan debt is included and represented accurately.|                  |
+|My goal is to have a clear story and audience.|                  |
+|My goal is to have data visualizations that actually do help enhance the message.|
 
 
 Text here!
@@ -55,10 +57,6 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
