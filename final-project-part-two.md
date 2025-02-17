@@ -17,16 +17,15 @@ I hope to reach students with my story and help them realize that they are not a
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-The goals of my research are to hear the students bring their own opinions and to see if their stance on student loan debt is included and represented accurately. I am curious to see if there is another component or persepctive that I am missing in terms of the effects of student loan debt. I also want to know if my story and audience is clear and if the data visualizations actually do help enhance the message. 
-
 | Goal | Questions to Ask |
 |------|------------------|
-|My goal is to see if their stance on student loan debt is included and represented accurately.|                  |
-|My goal is to have a clear story and audience.|                  |
-|My goal is to have data visualizations that actually do help enhance the message.|
+|My goal is to make sure all perspectives on student loan debt are included and represented accurately.|Is there a piece of information that you feel is missing or needs more clarity?|
+|My goal is to have a clear target audience.|Who do you think is the intended audience for this?|
+|My goal is to have a clear story and message.|What do you think is the main message of this project?|
+|My goal is to have a clear and intuitive navigation through the storyline.|Is there anything you find confusing or not intuitive?|
+|My goal is to have data visualizations that actually do help enhance the message.|Do you think the visualizations I chose are the best way to represent the data and convey a clear message?|
+|My goal is to make sure that the way my story is told and the use of the data visualizations tell a compelling story.|Is there anything you would change, do differently, or add?|
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -35,9 +34,14 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|Is there a piece of information that you feel is missing or needs more clarity?|     |             |             |
+|Who do you think is the intended audience for this?|                  |             |             |
+|What do you think is the main message of this project?|                                |             |             |
+|Is there anything you find confusing or not intuitive?|                                |             |             |
+|Do you think the visualizations I chose are the best way to represent the data and convey a clear message?|      |             |       |
+|Is there anything you would change, do differently, or add?|                                |             |             |
+
+
 
 
 # Identified changes for Part III
