@@ -8,14 +8,12 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 Due to this project largely focusing on the impacts of the student loan debt, the best audience would be students themselves. In order to identify representative individuals, I think the best way would be to approach students from CMU, particuraly graduate students. Undergraduates may not exprience the after effects of student debt yet but graduate students (since many have worked between graduating undergrad and starting graduate school) likely experience the effects from the student debt they took on during their undergraduate years.  I think it would be interesting to also interview older generations, particuraly GenX, because their experience with student loan debt and therefore, their perspective on student loan debt may be vastly different. Since most graduate students are likely older GenZ or younger millenials, I think having one GenX individual who has taken out student loans would be an interesting perspective to gather. 
 
 I hope to reach students with my story and help them realize that they are not alone in their struggles with student loan debt because varying demographics do struggle in some way with the effects. However, for the bigger picture, I want to reach higher education insitutions, employers, and policymakers so they can see the large negative impact that student loan debt has on the American population and be inspired to take action to combat and help the student loan debt crisis.   
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -28,11 +26,8 @@ I hope to reach students with my story and help them realize that they are not a
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions | MEIM student, mid 20s| MAM student, mid 20s | Parent, early 40s, still paying student loans.|
+| Questions | MEIM student, mid 20s| MAM student, mid 20s | Parent, early 40s, not a student currently but still paying student loans.|
 |-------------------------|--------------------------------|-------------|-------------|
 |Is there a piece of information that you feel is missing or needs more clarity?|Everything is there- data and text wise- but it may be too much information for this presentation. Too large of a scope for this project.|Design needs the most work since the graphs and information are already there. Cleaning up the cohesiveness of the color and design choices in shorthand would create less visual distraction.|Information is not necessarily missing but there is almost too much information- make it more concise and less text.|
 |Who do you think is the intended audience for this?|Policymakers.|Students and government.|Students and policymakers. Although, the end of your project shows recommendations for students, policymakers, higher education insitutions, and employers so possibly narrow down to one audience?|
@@ -43,21 +38,17 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
+| Research synthesis| Anticipated changes for Part III |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+|One of the themes from the interviews was design choice. It seems that the use of all of the colors in the design of shorthand are not consistent and a bit all over the place, which distracts from the narrative.|I will try to fix all of the colors in my design so that they are more organized. I will make clear headers for each new piece of information and designate colors for each header to create consistency.|
+|Another theme from the interviews was how text heavy the project was in shorthand.|In order to fix this, I will try to make the text more concise. Particuraly for the graphs, I have a lot of bullet points that directly point out what is obviously shown in the visualizations, so I will remove them or have text that gives more analysis points rather than data points that the audience can figure out themselves.|
+|Another theme from the interviews was the breadth of information.|I will try to make all of the information more concise and potentially cut out some data points away in order to make the scope of the project smaller.|
+|Another theme from the interviews is confusion around who exactly the audience for this project is.|Currently, I have many different calls to action for different audiences. I think it would make sense to narrow down the audiences. Due to the narrative of the project being the negative effects of student loan debt, instead of being aimed at students, I think it would make more sense to delete the student portion from my current call to action and choose one or more of the other audiences (higher education institutions, employers, and policymakers).|
 
-> ...include any final thoughts you have here. 
+In terms of final thoughts, I think most of the work for Part 3 will surround reducing the amount of information and telling the story more through my visualizations rather than text. I will work on narrowing down the scope of the project as well as narrowing down my target audiences. My initial thought was that a project surrounding student loan debt would have students as the main audience, but after getting feedback from my interviewees, it seems to be more appropriately aligned with the message of my story for the audience to be institutions who can change the impacts of student loan debts, such as policymakers and higher education insitutions themselves.
 
-Text here!
+I will also work on the design element. It seems that the colors and design choices for the template in shorthand are not polished yet and create a bit of chaos in navigating the storyline for the viewer. I will clean up the design and create more consistency in color choices so the design elements don't distract from the narrative.
 
 
 ## References for Shorthand (Also in Shorthand as well)
