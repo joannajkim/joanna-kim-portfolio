@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-[Draft Shorthand Story:](https://carnegiemellon.shorthandstories.com/02504e2f-aa8b-40c7-b0a1-209ec854d31d/index.html) 
+[Draft Shorthand Story](https://carnegiemellon.shorthandstories.com/02504e2f-aa8b-40c7-b0a1-209ec854d31d/index.html) 
 
 # User research 
 
