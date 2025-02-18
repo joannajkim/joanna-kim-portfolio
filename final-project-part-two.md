@@ -32,16 +32,14 @@ I hope to reach students with my story and help them realize that they are not a
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions | MEIM student, mid 20s| MAM student, mid 20s | Parent, early 40s, still paying student loans.|
 |-------------------------|--------------------------------|-------------|-------------|
-|Is there a piece of information that you feel is missing or needs more clarity?|     |             |             |
-|Who do you think is the intended audience for this?|                  |             |             |
-|What do you think is the main message of this project?|                                |             |             |
-|Is there anything you find confusing or not intuitive?|                                |             |             |
-|Do you think the visualizations I chose are the best way to represent the data and convey a clear message?|      |             |       |
-|Is there anything you would change, do differently, or add?|                                |             |             |
-
-
+|Is there a piece of information that you feel is missing or needs more clarity?|Everything is there- data and text wise- but it may be too much information for this presentation. Too large of a scope for this project.|Design needs the most work since the graphs and information are already there. Cleaning up the cohesiveness of the color and design choices in shorthand would create less visual distraction.|Information is not necessarily missing but there is almost too much information- make it more concise and less text.|
+|Who do you think is the intended audience for this?|Policymakers.|Students and government.|Students and policymakers. Although, the end of your project shows recommendations for students, policymakers, higher education insitutions, and employers so possibly narrow down to one audience?|
+|What do you think is the main message of this project?|Student loans consequences; disparities in consequences; many aspects from student loans have long term effects|Impacts of student loans.|Student loan debt and the impact on former students' future.|             
+|Is there anything you find confusing or not intuitive?|There are too many data points. Focus on one aspect or take some aspects away. Having more overarching ideas to guide the audience through the story.|The information is in large blocks of text so it's too long. Make the information more concise and have more visual elements. It doesn't seem like the information would fit in a brief presentation.|The colors reflect the United States but I would use more consistent design choices. Each section can have own color and title like a powerpoint presentation with slides.|      
+|Do you think the visualizations I chose are the best way to represent the data and convey a clear message?|Yes. Clear visualizations and descriptive titles.|Agree with Interviewee 1.|Lots of good data to convince policymakers of your viewpoiint. The graphs have clear headers and graphs help move the story. Bullets next to graphs are unnecessary for most of the slides because the graphs show clear information.|
+|Is there anything you would change, do differently, or add?|Instead of having text that repeats what the graphs show, do more concise bullet points or let graphs speak for themselves if it's self-explanatory. For example, letting descriptive title for graphs can be enough instead of having to add text to explain what is obvious to audience. Have less text heavy components. Seems more like a report right now, change it to read like a presentation.|Have titles for each section, like chapters in a book. Have an overall title/big header to physically separate each chunk of information and graph.|Add narratives from real people who struggle with student loans can make the issue seem more real to policymakers.|
 
 
 # Identified changes for Part III
@@ -62,8 +60,26 @@ Text here!
 Text here!
 
 
-## References
-_List any references you used here._
+## References for Shorthand (Also in Shorthand as well)
+Bareham, Hanneh. “Which generation has the most student loan debt?’.” Bankrate. September 28, 2023. https://www.bankrate.com/loans/student-loans/student-loan-debt-by-generation/.
+Blake, Suzanne. “Gen Z Has a Serious Debt Problem’.” Newsweek. February 9, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+“Causes of and Solutions to the Student Debt Crisis.” The Annie E. Casey Foundation. November 1, 2022. https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-economic-distress.
+Coughter, Jerry and Conor Gowder. “Why is the cost of college rising so fast?.” The State Science & Technology Center. September 19, 2024. https://ssti.org/blog/why-cost-college-rising-so-fast.
+“Drowning in Debt: Student Loans Weigh Down Borrowers.” WGU Labs. January 10, 2024. https://www.wgulabs.org/posts/drowning-in-debt-student-loans-weigh-down-borrowers.
+Hanson, Melanie. “Average Student Loan Debt by Year.” Education Data Initiative. August 16, 2024. https://educationdata.org/average-student-loan-debt-by-year.
+Hanson, Melanie. “Student Loan Debt Statistics.” Education Data Initiative. January 15, 2025. https://educationdata.org/student-loan-debt-statistics.
+“Household Debt and Credit Report.” Federal Reserve Bank of New York. https://www.newyorkfed.org/microeconomics/hhdc.html.
+“Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
+Marken, Stephanie. “Most Student Loan Borrowers Have Delayed Major Life Events.” Gallup. April 17, 2024. https://news.gallup.com/poll/643328/student-loan-borrowers-delayed-major-life-events.aspx.
+Rodriguez, Victoria. “SurveyMonkey Poll: ‘Invest in You’.” SurveyMonkey. January 2022. https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/.
+Streaks, Jennifer. “Average American Debt: Household Debt Statistics.” Business Insider. July 31, 2024. https://www.businessinsider.com/personal-finance/credit-score/average-american-debt.
+“The Financial and Mental Cost of the United States’ Higher Education Issues.’”. ELVTR US. https://elvtr.com/blog/a-failing-system-the-financial-and-mental-cost-of-the-united-states-higher-education-issues.
+“The Impact of Student Loan Debt.” National Association of Realtors. https://www.nar.realtor/research-and-statistics/research-reports/the-impact-of-student-loan-debt.
+“Tips for paying off student loans more easily.”Consumer Financial Protection Bureau. https://www.consumerfinance.gov/paying-for-college/repay-student-debt/student-loan-debt-tips/#take-control-of-your-loans.
+“2024 Student Debt and Mental Health Survey Reveals Borrowers Are Still Hurting.” Student Loan Planner. https://www.studentloanplanner.com/mental-health-awareness-survey/.
+Williams, Terri. “10 Ways Student Debt Can Derail Your Life.” Investopedia. December 29, 2023. https://www.investopedia.com/articles/personal-finance/100515/10-ways-student-debt-can-destroy-your-life.asp.
+Williams, Ward. “Student Loan Debt by Gender’”. Investopedia. July 3, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+Wright, Marisa. “How Student Loan Forgiveness Can Help Close The Racial Wealth Gap and Advance Economic Justice.” Legal Defense Fund. https://www.naacpldf.org/student-loans-racial-wealth-gap/.
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
