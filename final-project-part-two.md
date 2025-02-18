@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-Draft Shorthand Story: https://carnegiemellon.shorthandstories.com/02504e2f-aa8b-40c7-b0a1-209ec854d31d/index.html 
+[Draft Shorthand Story:] (https://carnegiemellon.shorthandstories.com/02504e2f-aa8b-40c7-b0a1-209ec854d31d/index.html) 
 
 # User research 
 
@@ -90,6 +90,4 @@ Williams, Ward. “Student Loan Debt by Gender’”. Investopedia. July 3, 2024
 
 Wright, Marisa. “How Student Loan Forgiveness Can Help Close The Racial Wealth Gap and Advance Economic Justice.” Legal Defense Fund. https://www.naacpldf.org/student-loans-racial-wealth-gap/.
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
