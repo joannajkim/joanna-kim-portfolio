@@ -23,7 +23,6 @@ I hope to reach students with my story and help them realize that they are not a
 |My goal is to have data visualizations that actually do help enhance the message.|Do you think the visualizations I chose are the best way to represent the data and convey a clear message?|
 |My goal is to make sure that the way my story is told and the use of the data visualizations tell a compelling story.|Is there anything you would change, do differently, or add?|
 
-
 ## Interview findings
 
 | Questions | MEIM student, mid 20s| MAM student, mid 20s | Parent, early 40s, not a student currently but still paying student loans.|
