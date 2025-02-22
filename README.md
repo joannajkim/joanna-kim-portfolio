@@ -15,14 +15,23 @@ Hi! My name is Joanna. I was born and raised Austin, Texas. I am a second year A
 3. Familiarizing myself with different types of graphs and charts
 
 # Portfolio
+
 This is my public portfolio for Telling Stories with Data at CMU! 
 
 ## Assignment: Setting up your online portfolio: 
+
 https://joannajkim.github.io/joanna-kim-portfolio/
+
+## Final project
+
+[Part I](final-project-part-one)
+[Part II](final-project-part-two)
+[Part III](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-three)
 
 ## Assignment: [Critique by Design](critique-by-design)
 
 ### First Draft of Critique by Design
+
 <div class='tableauPlaceholder' id='viz1739072869431' style='position: relative'><noscript><a href='#'><img alt='Countries by Average Daily Social Media Use ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;Critique-FirstDraft-JoannaKim&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Critique-FirstDraft-JoannaKim&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;Critique-FirstDraft-JoannaKim&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1739072869431');
@@ -33,25 +42,24 @@ https://joannajkim.github.io/joanna-kim-portfolio/
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Final project
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-three)
+## Sketching Exercises:
 
-## Choosing Chart Types - Week Four (Discussion/Workbook)
+### Choosing Chart Types - Week Four (Discussion/Workbook)
 ![IMG_7187](https://github.com/user-attachments/assets/56fae4e3-9bdb-42f9-a5f2-f08c3eeb1c64)
 
 ![IMG_7188](https://github.com/user-attachments/assets/9119b7fa-4222-45a3-a73b-87ff6ab33324)
 
-## Crafting for Clarity - Week Two (Discussion/Workbook)
+### Crafting for Clarity - Week Two (Discussion/Workbook)
 ![IMG_7135](https://github.com/user-attachments/assets/c30c5cec-3d00-4fc1-a780-140d4dd64cfa)
 
 ![IMG_7133](https://github.com/user-attachments/assets/286f9c03-f5de-4da8-a9c4-082b8594aff0)
 
-## Controlling Color - Week One (Discussion/Workbook)
+### Controlling Color - Week One (Discussion/Workbook)
 ![IMG_7026](https://github.com/user-attachments/assets/489bcab1-aee2-4f31-9169-4401622ebdc2)
 
-## Working with Tableau: Visualizing Government Debt
+## Data-Viz Examples:
+
+### Working with Tableau: Visualizing Government Debt
 <div class='tableauPlaceholder' id='viz1737692848980' style='position: relative'><noscript><a href='#'><img alt='Greece&#39;s General Government Debt Rises Above Other European Countries  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gr&#47;GreecesGeneralGovernmentDebtRisesAboveOtherEuropeanCountries&#47;httpswww_oecd_orgendata_html&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GreecesGeneralGovernmentDebtRisesAboveOtherEuropeanCountries&#47;httpswww_oecd_orgendata_html' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gr&#47;GreecesGeneralGovernmentDebtRisesAboveOtherEuropeanCountries&#47;httpswww_oecd_orgendata_html&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1737692848980');
@@ -62,7 +70,7 @@ https://joannajkim.github.io/joanna-kim-portfolio/
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Data-Viz Examples:
+### In-Class Demo:
 <div class='tableauPlaceholder' id='viz1737676131226' style='position: relative'><noscript><a href='#'><img alt='https:&#47;&#47;www.oecd.org&#47;en&#47;data.html ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;Debt-to-GDPratiosbycountry&#47;httpswww_oecd_orgendata_html&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Debt-to-GDPratiosbycountry&#47;httpswww_oecd_orgendata_html' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;Debt-to-GDPratiosbycountry&#47;httpswww_oecd_orgendata_html&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1737676131226');
@@ -78,7 +86,6 @@ https://joannajkim.github.io/joanna-kim-portfolio/
 </script>
 
 ### Challenge Exercise: Demo with World Indicators
-
 <div class='tableauPlaceholder' id='viz1738006205434' style='position: relative'><noscript><a href='#'><img alt='Sheet 1 - 2012 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YQ&#47;YQ9TRQG69&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;YQ9TRQG69' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;YQ&#47;YQ9TRQG69&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1738006205434');
