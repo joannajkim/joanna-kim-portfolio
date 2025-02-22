@@ -36,7 +36,7 @@ https://joannajkim.github.io/joanna-kim-portfolio/
 ## Final project
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[final project III](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-three)
 
 ## Choosing Chart Types - Week Four (Discussion/Workbook)
 ![IMG_7187](https://github.com/user-attachments/assets/56fae4e3-9bdb-42f9-a5f2-f08c3eeb1c64)
