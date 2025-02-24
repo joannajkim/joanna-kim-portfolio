@@ -2,8 +2,8 @@
 
 # Websites
 
-- Web page URL: (https://joannajkim.github.io/joanna-kim-portfolio/)
-- This repository: (https://github.com/joannajkim/joanna-kim-portfolio)
+[Web page URL](https://joannajkim.github.io/joanna-kim-portfolio/)
+[This repository](https://github.com/joannajkim/joanna-kim-portfolio)
 
 # About me
 Hi! My name is Joanna. I was born and raised Austin, Texas. I am a second year Arts Management student at CMU.
