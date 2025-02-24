@@ -2,8 +2,8 @@
 
 # Websites
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- Web page URL: https://joannajkim.github.io/joanna-kim-portfolio/
+- This repository: https://github.com/joannajkim/joanna-kim-portfolio
 
 # About me
 Hi! My name is Joanna. I was born and raised Austin, Texas. I am a second year Arts Management student at CMU.
@@ -18,9 +18,6 @@ Hi! My name is Joanna. I was born and raised Austin, Texas. I am a second year A
 
 This is my public portfolio for Telling Stories with Data at CMU! 
 
-## Assignment: Setting up your online portfolio: 
-
-https://joannajkim.github.io/joanna-kim-portfolio/
 
 ## Final project
 
