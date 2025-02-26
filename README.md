@@ -25,7 +25,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 [Part II](final-project-part-two)
 [Part III](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-three)
 
-## Assignment: 
+## Critique by Design Assignment: 
 [Critique by Design](critique-by-design)
 
 ## Sketching Exercises:
