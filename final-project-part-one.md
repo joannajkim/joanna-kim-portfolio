@@ -139,7 +139,3 @@ https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
 <sup>17</sup>Hanson, Melanie. “Student Loan Debt Statistics.” Education Data Initiative. January 15, 2025. https://educationdata.org/student-loan-debt-statistics.
 
 <sup>18</sup>“Causes of and Solutions to the Student Debt Crisis.” The Annie E. Casey Foundation. November 1, 2022. https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-economic-distress. 
-
-
-## AI acknowledgements
-
