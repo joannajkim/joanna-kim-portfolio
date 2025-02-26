@@ -2,9 +2,9 @@
 
 # Websites
 
-[Web page URL](https://joannajkim.github.io/joanna-kim-portfolio/)
+[Web Page URL](https://joannajkim.github.io/joanna-kim-portfolio/)
 
-[This repository](https://github.com/joannajkim/joanna-kim-portfolio)
+[This Repository](https://github.com/joannajkim/joanna-kim-portfolio)
 
 # About me
 Hi! My name is Joanna. I was born and raised Austin, Texas. I am a second year Arts Management student at CMU.
@@ -19,14 +19,14 @@ Hi! My name is Joanna. I was born and raised Austin, Texas. I am a second year A
 
 This is my public portfolio for Telling Stories with Data at CMU! 
 
-
 ## Final project
 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-three)
 
-## Assignment: [Critique by Design](critique-by-design)
+## Assignment: 
+[Critique by Design](critique-by-design)
 
 ## Sketching Exercises:
 
@@ -57,7 +57,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 </script>
 
 ### In-Class Demo:
-<div class='tableauPlaceholder' id='viz1737676131226' style='position: relative'><noscript><a href='#'><img alt='https:&#47;&#47;www.oecd.org&#47;en&#47;data.html ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;Debt-to-GDPratiosbycountry&#47;httpswww_oecd_orgendata_html&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Debt-to-GDPratiosbycountry&#47;httpswww_oecd_orgendata_html' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;Debt-to-GDPratiosbycountry&#47;httpswww_oecd_orgendata_html&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<div class='tableauPlaceholder' id='viz1737676131226' style='position: relative'><noscript><a href='#'><img alt='https:&#47;&#47;www.oecd.org&#47;en&#47;data.html ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;Debt-to-GDPratiosbycountry&#47;httpswww_oecd_orgendata_html&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Debt-to-GDPratiosbycountry&#47;httpswww_oecd_orgendata_html' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;De&#47;Debt-to-GDPratiosbycountry&#47;httpswww_oecd_orgendata_html&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>       
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1737676131226');
   var vizElement = divElement.getElementsByTagName('object')[0];                    
