@@ -16,7 +16,7 @@ Another change I made in response to the comments I received during my interview
 
 I also added two more data visualizations to the beginning since Part II, which are the Average Debt Per Student in the United States and the Average Debt Per State in the United States. I felt that these vsiualizations were important and interesting to add in order to personalize even further the debt that each student has and also to showcase the specific student loan debt numbers instead of providing just the general total U.S. student loan debt as I did before.
 
-Finally, another change I made was reordering certain slides because I think the slides were a bit unorganized in Part II and did not tell a cohesive story that flowed appropriately. 
+Finally, another change I made was reordering certain slides because I think the slides were a bit unorganized in Part II and did not tell a cohesive story that flowed appropriately. I made more distinguishable sections in order to create more connected sections and to split up the density in the content. 
 
 One thing that stood out to me that I learned working through this whole process was the importance of the critique by design process and gathering feedback from others. I would not have noticed what my interviewees had noticed so it is important to receive outside perspectives when creating projects. Also, iterations are very important in the creation of anything, especially when designing data visualizations and seeing the improvement from my very first sketches is a testament to the importance of gathering feedback and continued iterations. 
 
