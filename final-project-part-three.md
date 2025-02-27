@@ -1,7 +1,13 @@
 | [home page](https://joannajkim.github.io/joanna-kim-portfolio/) | [critique by design](https://joannajkim.github.io/joanna-kim-portfolio/critique-by-design) | [final project I](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-one) | [final project II](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-two) | [final project III](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-three) | 
 
-# The final data story
 
+[Web Page URL for Portfolio](https://joannajkim.github.io/joanna-kim-portfolio/)
+
+[Web Page URL for Part III](https://joannajkim.github.io/joanna-kim-portfolio/final-project-part-three)
+
+[This Repository](https://github.com/joannajkim/joanna-kim-portfolio)
+
+# The final data story
 [Shorthand Story: Lasting Effects of Student Loan Debt](https://carnegiemellon.shorthandstories.com/joanna-kim-lasting-effects-of-student-loan-debt/index.html)
 
 # Changes made since Part II/Final Design Decisions
