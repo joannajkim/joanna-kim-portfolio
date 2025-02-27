@@ -27,7 +27,132 @@ The audiences I identified for my final data story are higher education insituti
 With this new narrowed down audience in mind, to add more personal connection to the students for the audience and to also break up some of the text, I added more images of students. I also added the two new data visualizations (Average Debt Per Student in the United States and the Average Debt Per State in the United States) in response to this new audience because each state has different higher education institutions within, so I think highlighting each datapoint for each specific state and the average student loan debt creates a further personal connection between higher education insitutions and each student.
 
 ## References
-References for Part III are all in Shorthand at the end of the story under "Bibliography".
+1 “Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
+
+2 Streaks, Jennifer. “Average American Debt: Household Debt Statistics.” Business Insider. July 31, 2024. https://www.businessinsider.com/personal-finance/credit-score/average-american-debt.
+
+3 “Household Debt and Credit Report.” Federal Reserve Bank of New York. https://www.newyorkfed.org/microeconomics/hhdc.html.
+
+4 Wood, Sarah. “How College Freshman Fall 2024 Enrollment Increased.” Education Data Initiative. January 24, 2025. https://www.usnews.com/education/best-colleges/applying/articles/how-college-freshman-fall-2024-enrollment-increased.
+
+5 “Is Rising Student Debt Harming the U.S. Economy?.” Council on Foreign Relations. April 16, 2024. https://www.cfr.org/backgrounder/us-student-loan-debt-trends-economic-impact.
+
+6 “Causes of and Solutions to the Student Debt Crisis.” The Annie E. Casey Foundation. November 1, 2022. https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-economic-distress.
+
+7 “Causes of and Solutions to the Student Debt Crisis.” The Annie E. Casey Foundation. November 1, 2022. https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-economic-distress.
+
+8 “Causes of and Solutions to the Student Debt Crisis.” The Annie E. Casey Foundation. November 1, 2022. https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-economic-distress.
+
+9 Williams, Terri. “10 Ways Student Debt Can Derail Your Life.” Investopedia. December 29, 2023. https://www.investopedia.com/articles/personal-finance/100515/10-ways-student-debt-can-destroy-your-life.asp.
+
+10 Williams, Terri. “10 Ways Student Debt Can Derail Your Life.” Investopedia. December 29, 2023. https://www.investopedia.com/articles/personal-finance/100515/10-ways-student-debt-can-destroy-your-life.asp.
+
+11 Hanson, Melanie. “Average Student Loan Debt by Year.” Education Data Initiative. August 16, 2024. https://educationdata.org/average-student-loan-debt-by-year.
+
+12 “Drowning in Debt: Student Loans Weigh Down Borrowers.” WGU Labs. January 10, 2024. https://www.wgulabs.org/posts/drowning-in-debt-student-loans-weigh-down-borrowers.
+
+13 Rodriguez, Victoria. “SurveyMonkey Poll: ‘Invest in You’.” SurveyMonkey. January 2022. https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/.
+
+14 Rodriguez, Victoria. “SurveyMonkey Poll: ‘Invest in You’.” SurveyMonkey. January 2022. https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/.
+
+15 Marken, Stephanie. “Most Student Loan Borrowers Have Delayed Major Life Events”. Gallup. April 17, 2024. https://news.gallup.com/poll/643328/student-loan-borrowers-delayed-major-life-events.aspx.
+
+16 “The Impact of Student Loan Debt.” National Association of Realtors. https://www.nar.realtor/research-and-statistics/research-reports/the-impact-of-student-loan-debt.
+
+17 “The Impact of Student Loan Debt.” National Association of Realtors. https://www.nar.realtor/research-and-statistics/research-reports/the-impact-of-student-loan-debt.
+
+18 “The Impact of Student Loan Debt.” National Association of Realtors. https://www.nar.realtor/research-and-statistics/research-reports/the-impact-of-student-loan-debt.
+
+19 Rodriguez, Victoria. “SurveyMonkey Poll: ‘Invest in You’”. SurveyMonkey. January 2022. https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/.
+
+20 “The Financial and Mental Cost of the United States’ Higher Education Issues.’” ELVTR US. https://elvtr.com/blog/a-failing-system-the-financial-and-mental-cost-of-the-united-states-higher-education-issues.
+
+21 “2024 Student Debt and Mental Health Survey Reveals Borrowers Are Still Hurting.” Student Loan Planner. https://www.studentloanplanner.com/mental-health-awareness-survey/.
+
+22 Rodriguez, Victoria. “SurveyMonkey Poll: ‘Invest in You’.” SurveyMonkey. January 2022. https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/.
+
+23 Rodriguez, Victoria. “SurveyMonkey Poll: ‘Invest in You’.” SurveyMonkey. January 2022. https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/.
+
+24 Rodriguez, Victoria. “SurveyMonkey Poll: ‘Invest in You’.” SurveyMonkey. January 2022. https://www.surveymonkey.com/curiosity/cnbc-invest-in-you-jan-2022/.
+
+25 Wright, Marisa. “How Student Loan Forgiveness Can Help Close The Racial Wealth Gap and Advance Economic Justice.” Legal Defense Fund. https://www.naacpldf.org/student-loans-racial-wealth-gap/.
+
+26 Wright, Marisa. “How Student Loan Forgiveness Can Help Close The Racial Wealth Gap and Advance Economic Justice.” Legal Defense Fund. https://www.naacpldf.org/student-loans-racial-wealth-gap/.
+
+27 Wright, Marisa. “How Student Loan Forgiveness Can Help Close The Racial Wealth Gap and Advance Economic Justice.” Legal Defense Fund. https://www.naacpldf.org/student-loans-racial-wealth-gap/.
+
+28 Wright, Marisa. “How Student Loan Forgiveness Can Help Close The Racial Wealth Gap and Advance Economic Justice.” Legal Defense Fund. https://www.naacpldf.org/student-loans-racial-wealth-gap/.
+
+29 Williams, Ward. “Student Loan Debt by Gender’”. Investopedia. July 3, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+
+30 Williams, Ward. “Student Loan Debt by Gender’”. Investopedia. July 3, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+
+31 Williams, Ward. “Student Loan Debt by Gender’”. Investopedia. July 3, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+
+32 Williams, Ward. “Student Loan Debt by Gender’”. Investopedia. July 3, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+
+33 Williams, Ward. “Student Loan Debt by Gender’”. Investopedia. July 3, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+
+34 Bareham, Hanneh. “Which generation has the most student loan debt?’” Bankrate. September 28, 2023. https://www.bankrate.com/loans/student-loans/student-loan-debt-by-generation/.
+
+35 Blake, Suzanne. “Gen Z Has a Serious Debt Problem’.” Newsweek. February 9, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+
+36 Blake, Suzanne. “Gen Z Has a Serious Debt Problem’.” Newsweek. February 9, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+
+37 Blake, Suzanne. “Gen Z Has a Serious Debt Problem’.” Newsweek. February 9, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+
+38 Blake, Suzanne. “Gen Z Has a Serious Debt Problem’.” Newsweek. February 9, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+
+39 Blake, Suzanne. “Gen Z Has a Serious Debt Problem’.” Newsweek. February 9, 2024. https://www.investopedia.com/student-loan-debt-by-gender-5194243.
+
+40 Hanson, Melanie. “Student Loan Debt Statistics.” Education Data Initiative. January 15, 2025. https://educationdata.org/student-loan-debt-statistics.
+
+41 “Causes of and Solutions to the Student Debt Crisis.” The Annie E. Casey Foundation. November 1, 2022. https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-economic-distress.
+
+42 “Causes of and Solutions to the Student Debt Crisis.” The Annie E. Casey Foundation. November 1, 2022. https://www.aecf.org/blog/solutions-to-the-student-debt-crisis-in-a-time-of-economic-distress.
+
+43 Jack Kent Cooke Foundation. November 2017. https://www.jkcf.org/research/making-college-affordable-providing-low-income-students-with-the-knowledge-and-resources-needed-to-pay-for-college/.
+
+44 Jack Kent Cooke Foundation. November 2017. https://www.jkcf.org/research/making-college-affordable-providing-low-income-students-with-the-knowledge-and-resources-needed-to-pay-for-college/.
+
+45 Jack Kent Cooke Foundation. November 2017. https://www.jkcf.org/research/making-college-affordable-providing-low-income-students-with-the-knowledge-and-resources-needed-to-pay-for-college/.
+
+46 Jack Kent Cooke Foundation. November 2017. https://www.jkcf.org/research/making-college-affordable-providing-low-income-students-with-the-knowledge-and-resources-needed-to-pay-for-college/.
+
+47 Jack Kent Cooke Foundation. November 2017. https://www.jkcf.org/research/making-college-affordable-providing-low-income-students-with-the-knowledge-and-resources-needed-to-pay-for-college/.
+
+48 Jack Kent Cooke Foundation. November 2017. https://www.jkcf.org/research/making-college-affordable-providing-low-income-students-with-the-knowledge-and-resources-needed-to-pay-for-college/.
+
+49 Jack Kent Cooke Foundation. November 2017. https://www.jkcf.org/research/making-college-affordable-providing-low-income-students-with-the-knowledge-and-resources-needed-to-pay-for-college/.
+
+### Image Citations:
+
+Bjork, Marten. person walking holding brown leather bag. June 19, 2018. 
+
+Bout, Philippe. men's black long-sleeved top. Unsplash. September 14, 2018. https://unsplash.com/photos/mens-black-long-sleeved-top-93W0xn4961g.
+
+Bye, Robert. group of people inside the library. Unsplash. July 31, 2017. https://unsplash.com/photos/group-of-people-inside-the-library-CyvK_Z2pYXg.
+
+Grey, Alexander. 1 U.S.A dollar banknotes. Unsplash. May 14, 2018. https://unsplash.com/photos/1-usa-dollar-banknotes-8lnbXtxFGZw.
+
+Fou, Dom. people sitting on chair in front of computer. Unsplash. November 30, 2020. https://unsplash.com/photos/people-sitting-on-chair-in-front-of-computer-YRMWVcdyhmI.
+
+Gouw, Tim. man wearing white top using MacBook. Unsplash. February 25, 2016. https://unsplash.com/photos/man-wearing-white-top-using-macbook-1K9T5YiZ2WU.
+
+Mossholder, Tim. comfort room signage. Unsplash. December 24, 2018. https://unsplash.com/photos/comfort-room-signage-UcUROHSJfRA.
+
+Sincerely Media. woman reading book. Unsplash. July 15, 2018. https://unsplash.com/photos/woman-reading-book-dGxOgeXAXm8.
+
+Spiske, Markus. aerial view of assorted-color toys. Unsplash. January 10, 2020. https://unsplash.com/photos/aerial-view-of-assorted-color-toys-2sZiklfv_0M.
+
+Stutesman, Andrew. blue, green, and yellow world map. Unsplash. April 25, 2018. https://unsplash.com/photos/blue-green-and-yellow-world-map-l68Z6eF2peA.
+
+Sukoff, Joshua. building during day. Unsplash. December 2, 2019. https://unsplash.com/photos/building-during-day-5DDYHjk_KMU.
+
+Yuhao, Pang. people throwing hats on air. Unsplash. November 4, 2018. https://unsplash.com/photos/people-throwing-hats-on-air-_kd5cxwZOK4.
+
+Wu, Albert Vincent. woman in black coat standing on road during daytime. Unsplash. May 8, 2021. https://unsplash.com/photos/woman-in-black-coat-standing-on-road-during-daytime-L2nMR8YRCNI.
+
 
 # Final thoughts
 Overall, I think the entire project was fun to create. It required a lot of detailed work and iterations through the critique by design process that I was not familiar with before, but I feel that I have learned a lot and it has made me realize how important it is to not only get feedback from others, but the importance of building each element of a project step-by-step. I think having the project split into three parts really allowed me the opportunity to take time to gather and clarify my ideas and plan out everything without rushing through anything, which is usually what I would have done for any other project. I would love to apply the critique by design process into my future career and projects because it has proven, in this class, to be extremely helpful. 
